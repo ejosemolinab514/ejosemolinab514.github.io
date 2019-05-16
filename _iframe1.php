@@ -19,7 +19,7 @@
 <h2 style="text-align:right;">Cortés Reyes Tanya Cecilia</h2>
 <h2 style="text-align:right;">Hernández Padilla Marisol Monserrat</h2>
 <h2 style="text-align:right;">Hernández Vanegas Alejandra Abigail  </h2>
-<h2 style="text-align:right;"> Molina Beltrán Ernesto José</h2>
+<h2 style="text-align:right;">Molina Beltrán Ernesto José</h2>
 
 
 
